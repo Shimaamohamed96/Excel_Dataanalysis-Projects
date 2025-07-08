@@ -14,7 +14,7 @@ This Excel dashboard analyzes employee attrition data to uncover key trends in w
 
 ### Attrition by Job Role & Education
 - Breaks down turnover by **specific employee categories** (Hrs, Managers, Scientists).
-- 
+  
 ### Geographic Work Distance Impact 
 - Visualizes how **commuting distance** relates to **attrition**.
 
