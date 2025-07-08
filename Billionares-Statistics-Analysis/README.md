@@ -28,3 +28,5 @@ This project presents an interactive Excel dashboard analyzing global billionair
 ✅ **KPI Summaries & Trendlines**: Highlights key metrics like **net worth, country rankings, and industry leaders** using clear charts.
 
 ---
+
+![Dashboard Preview](![3](https://github.com/user-attachments/assets/cf6103c7-666e-4b91-b668-d23e4de5a8cc))
