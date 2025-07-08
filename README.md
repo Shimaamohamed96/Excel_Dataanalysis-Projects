@@ -36,4 +36,17 @@ These reports demonstrate skills in:
    - **Description**: This project This project presents a detailed financial forecast model designed specifically for startups and early-stage businesses. It covers a 3-year projection of revenue, expenses, profit & loss, cash flow, and break-even analysis. The model helps founders and stakeholders understand their financial trajectory, evaluate business sustainability, and prepare for investor presentations or fundraising. The Excel dashboard includes dynamic inputs, scenario analysis, and clear visualizations to support strategic decision-making.
    - **Target Audience**: Designed for Startup founders preparing for investment or growth planning, Freelance clients in need of customized financial planning tools, Business consultants developing financial models for clients and Early-stage investors or incubators needing startup metrics for evaluation.
    - **Tools**: Excel (Structured templates for Revenue, COGS- Linked financial statements- Power Query)
-   - **Folder**: `Financial-Model-Analysis/`
+  - **Folder**: `Financial-Model-Analysis/`
+    
+   ## How to Use This Folder
+- Each project folder contains:
+  - A `README.md` with detailed project information.
+  - Excel Files (`.xlsx`).
+  - Datasets are included in the Excel File.
+  - image for dashboard
+
+## Skills Demonstrated
+- **Excel**: Pivot Tables, Charts, and Data Analysis for business reporting.
+- **Data Analysis**: Identifying trends, patterns, and actionable insights.
+- **Business Intelligence**: Translating data into business recommendations.
+
