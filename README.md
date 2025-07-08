@@ -20,8 +20,20 @@ These reports demonstrate skills in:
    - **Tools**: Excel (Power Query - PivotTables & PivotCharts- Interactive Dashboards)
    - **Folder**: `Hr-Attrition-Analysis/`
 
-   3. **Coca-Cola Retailer Sales & Performance Analysis – USA Market**:
+ 3. **Coca-Cola Retailer Sales & Performance Analysis – USA Market**:
    - **Description**: This project analyzes Coca-Cola’s retail performance across the U.S., focusing on sales trends, product performance, retail channels, and consumer behavior. It is built to uncover key insights about top-selling products, high-performing regions, and the impact of promotional strategies at retail locations.
-   - **Target Audience**: Designed forRetail strategy and category managers, Sales analysts tracking performance across chains and regions, Marketing teams measuring the effectiveness of retail promotions and Freelance clients in the FMCG or beverage industry needing Excel/Power BI dashboards.
+   - **Target Audience**: Designed for Retail strategy and category managers, Sales analysts tracking performance across chains and regions, Marketing teams measuring the effectiveness of retail promotions and Freelance clients in the FMCG or beverage industry needing Excel/Power BI dashboards.
    - **Tools**: Excel (Power Query - PivotTables & PivotCharts- Interactive Dashboards- KPIS )
    - **Folder**: `Cocacola-Retailer-Analysis/`
+
+ 4. **McDonald’s Sales Performance Analysis – South America Market**:
+   - **Description**: This project provides an in-depth analysis of McDonald’s sales across South American countries, focusing on identifying revenue trends, store performance, menu preferences, and customer behavior. Using sales data segmented by country, restaurant type , time period, and product category , the project uncovers strategic insights to support regional growth, marketing, and operations decisions. Final outputs include clean visual dashboards and detailed KPIs for business storytelling.
+   - **Target Audience**: Designed for Regional managers and corporate teams analyzing performance across, Freelance clients in food & beverage, Restaurant consultants and market researchers examining QSR trends and supply chain and operations analysts monitoring stock movement, peak sales, and promotions.
+   - **Tools**: Excel (Power Query - PivotTables & PivotCharts- Interactive Dashboards- Charts showing YoY growth )
+   - **Folder**: `McDonald’s-Sales-Analysis/`
+
+5. **Startup Financial Forecast Model**:
+   - **Description**: This project This project presents a detailed financial forecast model designed specifically for startups and early-stage businesses. It covers a 3-year projection of revenue, expenses, profit & loss, cash flow, and break-even analysis. The model helps founders and stakeholders understand their financial trajectory, evaluate business sustainability, and prepare for investor presentations or fundraising. The Excel dashboard includes dynamic inputs, scenario analysis, and clear visualizations to support strategic decision-making.
+   - **Target Audience**: Designed for Startup founders preparing for investment or growth planning, Freelance clients in need of customized financial planning tools, Business consultants developing financial models for clients and Early-stage investors or incubators needing startup metrics for evaluation.
+   - **Tools**: Excel (Structured templates for Revenue, COGS- Linked financial statements- Power Query)
+   - **Folder**: `Financial-Model-Analysis/`
