@@ -30,4 +30,5 @@ This project presents an interactive Excel dashboard analyzing global billionair
 ---
 
 ![Dashboard Preview](https://raw.githubusercontent.com/Shimaamohamed96/Excel_Dataanalysis-Projects/refs/heads/main/Billionares-Statistics-Analysis/dashboard.jpg)
-![Dashboard Preview]([[https://raw.githubusercontent.com/Shimaamohamed96/Excel_Dataanalysis-Projects/refs/heads/main/Billionares-Statistics-Analysis/dashboard.jpg]](https://raw.githubusercontent.com/Shimaamohamed96/Excel_Dataanalysis-Projects/refs/heads/main/Billionares-Statistics-Analysis/dashbaord%202.jpg))
+
+![Dashboard Preview](https://raw.githubusercontent.com/Shimaamohamed96/Excel_Dataanalysis-Projects/refs/heads/main/Billionares-Statistics-Analysis/dashbaord%202.jpg)
