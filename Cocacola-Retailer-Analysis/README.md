@@ -35,9 +35,11 @@ Stacked bar and line chart shows quarterly movement in:
 
 ## Benefits of the Dashboard
 
-- **Data-Driven Decisions**: Back business choices with actionable data insights.  
-- **Retail Optimization**: Improve marketing, stocking, and customer segmentation strategies.  
-- **Clean Data Pipeline**: Ensures accuracy via Power Query transformations and data modeling.  
-- **Scalable Insights**: Built-in flexibility to adjust thresholds, filters, and segmentation logic.
-
+- **Track Brand Growth**: Easily spot high-performing products to guide production and marketing.  
+- **Optimize Retail Strategy**:  Understand which retailers are driving the most sales for smarter contract management. 
+- **Improve Pricing Models**:  Use average unit price and volume to tweak future pricing.
+- **Support Sales Forecasting**: Use quarterly performance for trend-based forecasting.
 ---
+
+![Dashboard Preview](https://raw.githubusercontent.com/Shimaamohamed96/Excel_Dataanalysis-Projects/refs/heads/main/Cocacola-Retailer-Analysis/Dashboard%20(1).jpg)
+![Dashboard Preview](https://raw.githubusercontent.com/Shimaamohamed96/Excel_Dataanalysis-Projects/refs/heads/main/Cocacola-Retailer-Analysis/Dashboard%20(2).jpg)
