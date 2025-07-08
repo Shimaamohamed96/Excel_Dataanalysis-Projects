@@ -29,4 +29,4 @@ This project presents an interactive Excel dashboard analyzing global billionair
 
 ---
 
-![Billionaires Dashboard](Billionares-Statistics-Analysis/dashboard 1.jpg)
+![dashboard 1](Billionares-Statistics-Analysis/dashboard 1.jpg)
