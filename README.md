@@ -42,7 +42,7 @@ These reports demonstrate skills in:
 - Each project folder contains:
   - A `README.md` with detailed project information.
   - Excel Files (`.xlsx`).
-  - Datasets are included in the Excel File.
+  - Data analysis excel file for project.
   - image for dashboard
 
 ## Skills Demonstrated
