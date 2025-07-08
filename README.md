@@ -20,13 +20,13 @@ These reports demonstrate skills in:
    - **Tools**: Excel (Power Query - PivotTables & PivotCharts- Interactive Dashboards)
    - **Folder**: `Hr-Attrition-Analysis/`
 
- 3. **Coca-Cola Retailer Sales & Performance Analysis – USA Market**:
+3. **Coca-Cola Retailer Sales & Performance Analysis – USA Market**:
    - **Description**: This project analyzes Coca-Cola’s retail performance across the U.S., focusing on sales trends, product performance, retail channels, and consumer behavior. It is built to uncover key insights about top-selling products, high-performing regions, and the impact of promotional strategies at retail locations.
    - **Target Audience**: Designed for Retail strategy and category managers, Sales analysts tracking performance across chains and regions, Marketing teams measuring the effectiveness of retail promotions and Freelance clients in the FMCG or beverage industry needing Excel/Power BI dashboards.
    - **Tools**: Excel (Power Query - PivotTables & PivotCharts- Interactive Dashboards- KPIS )
    - **Folder**: `Cocacola-Retailer-Analysis/`
 
- 4. **McDonald’s Sales Performance Analysis – South America Market**:
+4. **McDonald’s Sales Performance Analysis – South America Market**:
    - **Description**: This project provides an in-depth analysis of McDonald’s sales across South American countries, focusing on identifying revenue trends, store performance, menu preferences, and customer behavior. Using sales data segmented by country, restaurant type , time period, and product category , the project uncovers strategic insights to support regional growth, marketing, and operations decisions. Final outputs include clean visual dashboards and detailed KPIs for business storytelling.
    - **Target Audience**: Designed for Regional managers and corporate teams analyzing performance across, Freelance clients in food & beverage, Restaurant consultants and market researchers examining QSR trends and supply chain and operations analysts monitoring stock movement, peak sales, and promotions.
    - **Tools**: Excel (Power Query - PivotTables & PivotCharts- Interactive Dashboards- Charts showing YoY growth )
